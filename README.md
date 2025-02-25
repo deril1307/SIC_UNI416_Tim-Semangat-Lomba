@@ -1,7 +1,7 @@
 # SIC_UNI416_Tim-Semangat-Lomba
 
 # SENSOR :
-1.DHT 11 : Suhu Dan Kelembapan.
+1. DHT 11 : Suhu Dan Kelembapan.
 
 2. Pir Sensor : Untuk mendeteksi Gerakan / Motion
 
